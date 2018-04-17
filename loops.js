@@ -20,6 +20,7 @@ function whileLoop(number) {
 
 function doWhileLoop(array){
   do {
-    while()
+    while(maybeTrue() {
+  return Math.random() >= 0.5)
   }
 }
